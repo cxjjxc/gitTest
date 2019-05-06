@@ -12,4 +12,5 @@ iiiiiiiihhhhhhhh"""""""i
 
 dededededeii
 
-keep foolsh
+keep fools
+stay hungary
